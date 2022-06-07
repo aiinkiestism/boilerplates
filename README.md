@@ -8,3 +8,7 @@ Personal boilerplates.
 ## 💡 Blockchain Smart Contracts
 
 - [contracts](https://github.com/aiinkiestism/contracts)
+
+## 🏵 DID and Web3 data
+
+- [ceramic-glaze-sample](https://github.com/aiinkiestism/ceramic-glaze-sample)
